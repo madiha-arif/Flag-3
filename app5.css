@@ -1,0 +1,24 @@
+.p{
+    border: 2px solid black;
+    display: inline-block;
+}
+.w{
+    height: 250px;
+    width: 350px;
+    background-color: #ffffff;
+}
+.g{
+    height: 250px;
+    width: 290px;
+    background-color: #00a650;
+    position: absolute;
+    bottom: 381px;
+    left: 70px;
+}
+img{
+    height: 170px;
+    width: 170px;
+    position: absolute;
+    top: 50px;
+    left: 130px;
+}
